@@ -1,4 +1,4 @@
-### (EN) / (PL)
+### [EN] / [PL]
 
 # Multifunctional Clock Project / Projekt Zegara Wielofunkcyjnego
 
