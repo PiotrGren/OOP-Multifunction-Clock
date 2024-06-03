@@ -1,0 +1,76 @@
+# Build Folders
+bin/
+obj/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# C# files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.csproj.user
+*.ide
+
+# Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# Windows specific
+*.bak
+*.cache
+*.log
+*.obj
+*.suo
+*.swp
+*.user
+*.userosscache
+*.vspx
+*.vspscc
+*.vssscc
+
+# JetBrains Rider
+.idea/
+
+# Rider / ReSharper
+_ReSharper.Caches/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Azure Web App
+.publish/
