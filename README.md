@@ -1,10 +1,5 @@
 ### (EN) / (PL)
 
-# Multifunctional Clock using OOP in C#
-
-The project uses object-oriented programming methods to create a multifunctional clock application using the C# language.
-The application includes a clock, a timer, a stopwatch and an alarm clock, each with its own interface, and a main interface so we can switch between them.
-
 # Multifunctional Clock Project / Projekt Zegara Wielofunkcyjnego
 
 This project is a multifunctional clock written in C# using Object-Oriented Programming (OOP). The clock includes features such as an alarm, stopwatch, timer, and clock, each with its own interface, and a main interface so we can switch between them.
