@@ -99,8 +99,8 @@
 
 ## Authors / Autorzy
 
-Piotr Greń - Main developer - PiotrGren - https://github.com/PiotrGren
+[EN] Piotr Greń - Main developer - PiotrGren - https://github.com/PiotrGren
 
-Piotr Greń - Główny twórca - PiotrGren - https://github.com/PiotrGren
+[PL] Piotr Greń - Główny twórca - PiotrGren - https://github.com/PiotrGren
 
 
