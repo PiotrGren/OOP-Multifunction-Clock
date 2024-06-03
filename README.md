@@ -2,9 +2,9 @@
 
 # Multifunctional Clock Project / Projekt Zegara Wielofunkcyjnego
 
-This project is a multifunctional clock written in C# using Object-Oriented Programming (OOP). The clock includes features such as an alarm, stopwatch, timer, and clock, each with its own interface, and a main interface so we can switch between them.
+[EN] This project is a multifunctional clock written in C# using Object-Oriented Programming (OOP). The clock includes features such as an alarm, stopwatch, timer, and clock, each with its own interface, and a main interface so we can switch between them.
 
-Ten projekt to zegar wielofunkcyjny napisany w języku C# z wykorzystaniem paradygmatu programowania obiektowego (OOP). Aplikacja zawiera zegar, minutnik, stoper oraz budzik, każdy ze swoim własnym interfejsem oraz interfejs główny, dzięki któremu możemy przełączać się pomiędzy nimi.
+[PL] Ten projekt to zegar wielofunkcyjny napisany w języku C# z wykorzystaniem paradygmatu programowania obiektowego (OOP). Aplikacja zawiera zegar, minutnik, stoper oraz budzik, każdy ze swoim własnym interfejsem oraz interfejs główny, dzięki któremu możemy przełączać się pomiędzy nimi.
 
 ## Table of Contents / Spis treści
 
@@ -17,15 +17,15 @@ Ten projekt to zegar wielofunkcyjny napisany w języku C# z wykorzystaniem parad
 
 ## Project Description / Opis projektu
 
-The multifunctional clock is designed to provide users with various time management functions. The project is implemented in C# and uses advanced object-oriented programming techniques.
+[EN] The multifunctional clock is designed to provide users with various time management functions. The project is implemented in C# and uses advanced object-oriented programming techniques.
 
-Zegar wielofunkcyjny jest zaprojektowany, aby dostarczyć użytkownikowi różne funkcje zarządzania czasem. Projekt jest zrealizowany w języku C# i wykorzystuje zaawansowane techniki programowania obiektowego.
+[PL] Zegar wielofunkcyjny jest zaprojektowany, aby dostarczyć użytkownikowi różne funkcje zarządzania czasem. Projekt jest zrealizowany w języku C# i wykorzystuje zaawansowane techniki programowania obiektowego.
 
 ## Installation / Instalacja
 
-To run this project on your local machine, follow these steps:
+[EN] To run this project on your local machine, follow these steps:
 
-Aby uruchomić ten projekt na swoim lokalnym komputerze, wykonaj poniższe kroki:
+[PL] Aby uruchomić ten projekt na swoim lokalnym komputerze, wykonaj poniższe kroki:
 
 1. Download and install [Visual Studio](https://visualstudio.microsoft.com/) (if you haven't already).
    
@@ -51,9 +51,9 @@ Aby uruchomić ten projekt na swoim lokalnym komputerze, wykonaj poniższe kroki
 
 ## Usage / Użycie
 
-After running the project in Visual Studio, the application will open and be ready for use. Here is a brief description of the available functions:
+[EN] After running the project in Visual Studio, the application will open and be ready for use. Here is a brief description of the available functions:
 
-Po uruchomieniu projektu w Visual Studio, aplikacja otworzy się i będzie gotowa do użycia. Oto krótki opis funkcji dostępnych w aplikacji:
+[PL] Po uruchomieniu projektu w Visual Studio, aplikacja otworzy się i będzie gotowa do użycia. Oto krótki opis funkcji dostępnych w aplikacji:
 
  - Clock [Zegar]: Displays the current time in 24-hour format.
 
@@ -73,9 +73,9 @@ Po uruchomieniu projektu w Visual Studio, aplikacja otworzy się i będzie gotow
 
 ## Contributing / Wkład
 
-If you want to contribute to this project, follow these steps:
+[EN] If you want to contribute to this project, follow these steps:
 
-Jeśli chcesz przyczynić się do rozwoju tego projektu, wykonaj następujące kroki:
+[PL] Jeśli chcesz przyczynić się do rozwoju tego projektu, wykonaj następujące kroki:
 
 1. Fork it!
    
@@ -93,9 +93,9 @@ Jeśli chcesz przyczynić się do rozwoju tego projektu, wykonaj następujące k
 
 ## License / Licencja
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+[EN] This project is licensed under the MIT License - see the LICENSE file for details.
 
-Ten projekt jest objęty licencją MIT - zobacz plik LICENSE po więcej informacji.
+[PL] Ten projekt jest objęty licencją MIT - zobacz plik LICENSE po więcej informacji.
 
 ## Authors / Autorzy
 
