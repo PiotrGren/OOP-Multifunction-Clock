@@ -1,4 +1,5 @@
-** Choose your language / Wybierz język **
+**Choose your language / Wybierz język**
+
 [EN](#english) / [PL](#polski)
 
 ## English
