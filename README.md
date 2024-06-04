@@ -49,7 +49,7 @@ After running the project in Visual Studio, the application will open and be rea
 
  - Timer ['Minutnik' button]: Allows you to set a countdown timer from a chosen time to zero.
 
-## Contributing / Wkład
+## Contributing
 
 If you want to contribute to this project, follow these steps:
 
