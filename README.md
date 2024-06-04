@@ -1,5 +1,7 @@
 ### [EN] / [PL]
 
+[Kliknij aby przejść do języka polskiego](#polski)
+
 # Multifunctional Clock Project / Projekt Zegara Wielofunkcyjnego
 
 [EN] This project is a multifunctional clock written in C# using Object-Oriented Programming (OOP). The clock includes features such as an alarm, stopwatch, timer, and clock, each with its own interface, and a main interface so we can switch between them.
@@ -103,4 +105,6 @@
 
 [PL] Piotr Greń - Główny twórca - PiotrGren - https://github.com/PiotrGren
 
+
+# Polski
 
